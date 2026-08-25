@@ -1,14 +1,20 @@
-# AliceReader Desktop
-
-![AliceReader desktop preview](docs/desktop-preview.png)
-
-![License](https://img.shields.io/github/license/moyuan10086/AliceReader-desktop?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square)
-
-Windows 桌面版朗读工具。支持编辑器输入、全局快捷键导入选中文本，以及 MiniMax、豆包 Speech 和阿里百炼多渠道语音合成。
-
-[浏览器插件](https://github.com/moyuan10086/AliceReader-browser-extension) · [桌面版仓库](https://github.com/moyuan10086/AliceReader-desktop) · [MIT License](LICENSE)
+<br />
+<p align="center">
+  <img src="docs/desktop-preview.png" alt="AliceReader desktop preview" width="900">
+  <h2 align="center" style="font-weight: 600">AliceReader Desktop</h2>
+  <p align="center">
+    <img src="https://img.shields.io/github/license/moyuan10086/AliceReader-desktop?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" />
+  </p>
+  <p align="center">
+    Windows 桌面版多渠道朗读工具，支持编辑器输入和全局快捷键导入选中文本。
+    <br />
+    <a href="https://github.com/moyuan10086/AliceReader-desktop"><strong>🌎 GitHub 仓库</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://github.com/moyuan10086/AliceReader-browser-extension"><strong>🧩 浏览器插件</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="LICENSE"><strong>📜 MIT License</strong></a>
+  </p>
+</p>
 
 ## ✨ 特性
 
