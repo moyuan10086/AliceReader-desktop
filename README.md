@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="docs/desktop-main.png" alt="AliceReader desktop preview" width="900">
+  <img src="docs/alice-logo.png" alt="AliceReader logo" width="180" height="180">
   <h2 align="center" style="font-weight: 600">AliceReader Desktop</h2>
   <p align="center">
     <img src="https://img.shields.io/github/license/moyuan10086/AliceReader-desktop?style=flat-square" />
