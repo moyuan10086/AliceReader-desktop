@@ -1,0 +1,48 @@
+{
+  "provider": "minimax",
+  "api_key": "",
+  "endpoint": "https://api.minimaxi.com/v1/t2a_v2",
+  "model": "speech-2.8-turbo",
+  "voice_id": "English_expressive_narrator",
+  "language_boost": "English",
+  "emotion": "fluent",
+  "speed": 1.0,
+  "volume": 1.0,
+  "pitch": 0,
+  "sample_rate": 32000,
+  "bitrate": 128000,
+  "hotkey": "Ctrl+Shift+S",
+  "providers": {
+    "minimax": {
+      "api_key": "",
+      "endpoint": "https://api.minimaxi.com/v1/t2a_v2",
+      "model": "speech-2.8-turbo",
+      "voice_id": "English_expressive_narrator",
+      "language_boost": "auto",
+      "emotion": "fluent",
+      "speed": 1.0,
+      "volume": 1.0,
+      "pitch": 0,
+      "sample_rate": 32000,
+      "bitrate": 128000
+    },
+    "doubao": {
+      "api_key": "",
+      "model": "seed-tts-2.0",
+      "voice_id": "zh_female_vv_uranus_bigtts",
+      "sample_rate": 24000
+    },
+    "alibaba": {
+      "api_key": "",
+      "model": "cosyvoice-v3-flash",
+      "voice_id": "longanhuan_v3",
+      "language_hint": "zh",
+      "instruction": "",
+      "rate": 1.0,
+      "volume": 50,
+      "pitch": 1.0,
+      "sample_rate": 24000,
+      "format": "wav"
+    }
+  }
+}

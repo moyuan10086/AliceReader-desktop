@@ -1,0 +1,10 @@
+config.json
+cache/
+records.json
+__pycache__/
+.claude/
+*.pyc
+*.wav
+*.mp3
+*.log
+.DS_Store
