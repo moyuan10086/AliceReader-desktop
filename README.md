@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="docs/desktop-preview.png" alt="AliceReader desktop preview" width="900">
+  <img src="docs/desktop-main.png" alt="AliceReader desktop preview" width="900">
   <h2 align="center" style="font-weight: 600">AliceReader Desktop</h2>
   <p align="center">
     <img src="https://img.shields.io/github/license/moyuan10086/AliceReader-desktop?style=flat-square" />
@@ -48,7 +48,9 @@ python main.py
 
 ## 🖼️ 截图
 
-![AliceReader desktop](docs/desktop-preview.png)
+![AliceReader desktop main window](docs/desktop-main.png)
+
+![AliceReader channel settings](docs/desktop-settings.png)
 
 ## ⚙️ 渠道参数
 
